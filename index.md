@@ -17,7 +17,7 @@ and only a couple of them are supported and functional
 ### Listing the available CNV tools for WES
 The following compilation presents a comprehensive list of tools designed for the identification of hCNV (heterogeneous Copy Number Variation) in Whole Exome Sequencing datasets. The list provides the names of these tools, their associated links, an indication of their presence on the Galaxy platform, and details regarding their maintenance status, whether they are actively supported or have become obsolete.
 
-[CNVkit Table](https://github.com/users/khaled196/projects/1)
+[CNV tools Table](https://github.com/users/khaled196/projects/1)
 
 ### Wrap CNVkit library tools into Galaxy
 
