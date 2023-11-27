@@ -15,11 +15,9 @@ The following compilation presents a comprehensive list of tools designed for th
 
 [CNVkit Table](https://github.com/users/khaled196/projects/1)
 
-
+# Galaxy tutorial on how to wrap tools into Galaxy. 
  
- 
- 
-[Galaxy training network community](https://training.galaxyproject.org/training-material/) provide a [comprehensive tutorial](https://training.galaxyproject.org/training-material/topics/dev/tutorials/tool-from-scratch/tutorial.html)to instruct the reader in the full process of integrating a tool into Galaxy thorugh the process of
+[Galaxy training network community](https://training.galaxyproject.org/training-material/) provided a [comprehensive tutorial](https://training.galaxyproject.org/training-material/topics/dev/tutorials/tool-from-scratch/tutorial.html) to instruct the users in the full process of integrating a tool into Galaxy through the process of
  - the creation of a bioconda recipe for a new tool
  - writing a Galaxy tool wrapper
  - finally the testing and deployment of this tool into both a local and public Galaxy environment. 
