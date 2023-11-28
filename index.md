@@ -12,12 +12,12 @@ Although several CNV detection tools have been developed over the recent years [
 and only a couple of them are supported and functional
 
 
-## WP3 Deleverabels part 1
+## WP3 Deliverables part 1
 
 ### Listing the available CNV tools for WES
-The following compilation presents a comprehensive list of tools designed for the identification of hCNV (heterogeneous Copy Number Variation) in Whole Exome Sequencing datasets. The list provides the names of these tools, their associated links, an indication of their presence on the Galaxy platform, and details regarding their maintenance status, whether they are actively supported or have become obsolete.
+The following [compilation]([CNV tools Table](https://github.com/users/khaled196/projects/1) presents a comprehensive list of tools designed for the identification of hCNV (heterogeneous Copy Number Variation) in Whole Exome Sequencing datasets. The list provides the names of these tools, their associated links, an indication of their presence on the Galaxy platform, and details regarding their maintenance status, whether they are actively supported or have become obsolete.
 
-[CNV tools Table](https://github.com/users/khaled196/projects/1)
+
 
 ### Wrap CNVkit library tools into Galaxy
 
@@ -62,14 +62,14 @@ The [reference CNV workflow](https://www.nist.gov/programs-projects/genome-bottl
  
 The [workflow and the tools/code](https://github.com/NCBI-Hackathons/TheHumanPangenome/tree/master/MHC/e2e_notebooks) used
 
-## WP3 Deleverabels part 2 
+## WP3 Deliverables part 2 
 
 We have published the [workflow](https://workflowhub.eu/workflows/676) created using Contol-FREEC to detect somatic variants on the workflow hub. 
  
 
 # WP4 - Training and dissemination 
 
-## WP4 Deleverabels
+## WP4  Deliverables
 
 We have created a tutorial to show how to use Control-FreeC to detect variants and shared it on the Galaxy training network.
 
